@@ -46,5 +46,5 @@ Live Demo: https://microchatapp.netlify.app/
 ✅ Works in both development and production
 
 📜 License
-This project is open-source and available under the MIT License.
+This project is open-source.
 
